@@ -1,3 +1,7 @@
+
+*Report*: project paper
+*Presentation*: project presentation
+
 # Image Colorization using CNN Autoencoder, Deep CNN, U-Net, Res-Net, Dense-Net and Pix2Pix
 
 In this work we compare multiple architectures and techniques for the **colorization problem** in computer vision, which consists of transforming images from their greyscale version back to their colorized version.  
